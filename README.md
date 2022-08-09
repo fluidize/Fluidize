@@ -1,5 +1,7 @@
 helloo, i’m @Fluidize
+
 i like scripting in python and web dev
+
 you can contact me on discord fluidize#9936
 
 <!---
