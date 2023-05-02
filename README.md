@@ -1,8 +1,8 @@
-helloo, i’m @Fluidize
+hello, i’m @Fluidize
 
 i like scripting in python and web dev
 
-my discord is fluidize#9936
+my discord is fluidize#0123
 
 <!---
 Fluidize/Fluidize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
