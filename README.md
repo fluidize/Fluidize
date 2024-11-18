@@ -1,6 +1,6 @@
 hello, i’m @Fluidize
 
-i like scripting in **python** and **html/js/css**
+**python** and **html/js/css**
 
 >my discord is ***fluidize***
 
