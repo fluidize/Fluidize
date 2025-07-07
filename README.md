@@ -6,9 +6,6 @@ Interested in finance and data engineering :)
 - [Quantitative Finance Repo](https://github.com/fluidize/qtech)
 
 [**Contact me**](mailto:mbxiao1@gmail.com)
-
-[![Commits](https://img.shields.io/github/commit-activity/y/fluidize/qtech?label=commits)](https://github.com/fluidize)
-[![Issues](https://img.shields.io/github/issues/fluidize/qtech?label=issues)](https://github.com/fluidize)
 <!---
 Fluidize/Fluidize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
