@@ -1,6 +1,6 @@
 Hello, i’m @fluidize
 
-** Algorithmic Trading **
+**Algorithmic Trading**
 [Quantitative Finance Repo](https://github.com/fluidize/qtech)
 
 Interested in finance and data engineering :)
