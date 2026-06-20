@@ -1,4 +1,5 @@
-Hello, i’m @fluidize
+Hello, i’m Max!
+
 Interested in finance and data engineering :)
 
 Check out my [website](https://fluidize.github.io) to learn more about me!
